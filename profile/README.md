@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cchubai/.github/main/profile/banner.png" alt="CCHub.ai" width="100%" />
+<img src="https://raw.githubusercontent.com/cchubai/.github/main/profile/cchub-E-banner-1500x500.png" alt="CCHub.ai" width="100%" />
 
 # CCHub.ai · 实战枢纽
 
