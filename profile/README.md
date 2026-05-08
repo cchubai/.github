@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/cchubai/.github/main/profile/banner.png" alt="CCHub.ai" width="100%" />
+
 # CCHub.ai · 实战枢纽
 
 **The Ops Hub for Claude Native Devs**  
